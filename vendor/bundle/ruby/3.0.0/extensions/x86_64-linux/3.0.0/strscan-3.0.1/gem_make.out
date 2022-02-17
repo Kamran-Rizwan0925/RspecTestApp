@@ -1,0 +1,16 @@
+current directory: /home/dev/projects/auctions/vendor/bundle/ruby/3.0.0/gems/strscan-3.0.1/ext/strscan
+/home/dev/.rbenv/versions/3.0.1/bin/ruby -I /home/dev/.rbenv/versions/3.0.1/lib/ruby/3.0.0 -r ./siteconf20220217-1128-v0ry9r.rb extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+creating Makefile
+
+current directory: /home/dev/projects/auctions/vendor/bundle/ruby/3.0.0/gems/strscan-3.0.1/ext/strscan
+make DESTDIR\= clean
+
+current directory: /home/dev/projects/auctions/vendor/bundle/ruby/3.0.0/gems/strscan-3.0.1/ext/strscan
+make DESTDIR\=
+compiling strscan.c
+linking shared-object strscan.so
+
+current directory: /home/dev/projects/auctions/vendor/bundle/ruby/3.0.0/gems/strscan-3.0.1/ext/strscan
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 strscan.so ./.gem.20220217-1128-5wsq8q
